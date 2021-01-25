@@ -1,0 +1,18 @@
+Processor Buildings
+- Refinery (Spoil -> Fuel) (-Alloy)
+- Forge (Ore -> Alloy)
+- Farm (-> 2 Food) (-Alloy, +Nat)
+
+Buildings
+- City (-Alloy, -Nat, +Population Cap)
+- Mine (-Alloy, -Nat, +Planet Ore)
+- Shipyard (-Alloy, +Can Build Ships)
+
+Resources
+Raw
+- Ore
+- Spoil
+
+Refined
+- Alloy
+- Fuel
